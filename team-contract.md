@@ -32,4 +32,4 @@ Both of us must agree to any change, and we tell the advisor.
 | Name | Signature | Date |
 | --- | --- | --- |
 | Phani Bharadwaj Jarugumilli | Phani | Nov 4th|
-| Pratham Prabhu | | |
+| Pratham Prabhu | Pratham | Novr 4th |
