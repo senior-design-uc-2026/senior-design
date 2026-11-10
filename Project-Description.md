@@ -2,8 +2,6 @@
 
 **Team name:** Team Tiny Cloud
 
-**Project:** Tiny Cloud
-
 **Project topic area:** Self-hosted cloud infrastructure for sharing AI-built apps
 
 ## Team
