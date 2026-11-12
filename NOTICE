@@ -1,0 +1,17 @@
+Tiny Cloud
+Third-party software we plan to use, with source links.
+Each is used under its own open-source license. See the Ethics Statement (Ethics_Statement.md), section 3, for versions and licenses.
+
+Fastify: https://github.com/fastify/fastify
+http-proxy: https://github.com/http-party/node-http-proxy
+dockerode: https://github.com/apocas/dockerode
+better-sqlite3: https://github.com/WiseLibs/better-sqlite3
+Resend SDK: https://github.com/resend/resend-node
+Caddy: https://github.com/caddyserver/caddy
+commander: https://github.com/tj/commander.js
+MCP TypeScript SDK: https://github.com/modelcontextprotocol/typescript-sdk
+React: https://github.com/facebook/react
+Vite: https://github.com/vitejs/vite
+Vitest: https://github.com/vitest-dev/vitest
+autocannon: https://github.com/mcollina/autocannon
+gitleaks: https://github.com/gitleaks/gitleaks
